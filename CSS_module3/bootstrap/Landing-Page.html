@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xây dựng Landing Page</title>
+    <link rel="stylesheet" href="assets/bootstrap-5.2.0-dist/css/bootstrap-grid.css">
+    <link rel="stylesheet" href="assets/fontawesome-free-6.2.0-web/css/all.css">
+    <style>
+    *{
+    box-sizing: border-box;
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.header-top{
+    display: flex;
+    background-color: white;
+    height: 50px;
+    padding: 10px 20px;
+
+}
+
+.header-top a{
+    color: black;
+    font-size: 14px;
+}
+
+.header-top .logo{
+    position: relative;
+    border-right: 2px solid black;
+}
+
+.header-top .logo img{
+    position: absolute;
+    right: 20px;
+    text-align: right;
+    margin: auto;
+    width: 100px;
+    height: auto;
+}
+
+.menu-bar-left{
+    display: flex;
+}
+
+.menu-bar-left li{
+    margin: 0px 10px;
+}
+
+.menu-bar-left li:hover{
+    border-bottom: 2px solid black;
+}
+
+.menu-bar-left>li:first-child>a{
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.sub-menu{
+    position: absolute;
+    background-color: rgb(224, 220, 220);
+    width: 200px;
+    height: auto;
+    left: 0px;
+    top: 100%;
+    padding: 10px 0px;
+    display: none;
+    z-index: 1;
+}
+
+.menu-bar-left>li{
+    position: relative;
+}
+
+.menu-bar-left>li:nth-child(2):hover .sub-menu{
+    display: block;
+}
+
+.menu-bar-left>li:nth-child(3):hover .sub-menu{
+    display: block;
+}
+
+.menu-bar-left>li:nth-child(4):hover .sub-menu{
+    display: block;
+}
+
+.menu-bar-left>li:nth-child(5):hover .sub-menu{
+    display: block;
+}
+
+.menu-bar-right{
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu-bar-right>li{
+    position: relative;
+}
+
+.menu-bar-right>li:nth-child(1):hover .sub-menu{
+    display: block;
+}
+
+.menu-bar-right>li:last-child>div{
+    border:1px solid black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+
+.menu-bar-right>li:last-child>div a{
+    margin-left: 5px;
+}
+
+.head-mid{
+    position: relative;
+}
+
+.title{
+    width: 40%;
+    position: absolute;
+    right:0;
+    top:30%;
+}
+
+.title p{
+    font-size: 60px;
+    font-weight: 500;
+    line-height: 70px;
+    color: black;
+}
+
+.title a{
+    line-height: 60px;
+    margin-right: 30px;
+    font-weight: 500;
+}
+
+table{
+    width: 100%;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+table tr td a i:first-child{
+    font-size: 40px;
+}
+
+.microsoftEvent{
+    margin-top: 30px;
+    width: 100%;
+    background-color: rgb(230, 223, 223);
+    position: relative;
+   height: 200px;
+}
+
+.microsoftEvent div{
+    margin: auto 50px;
+}
+
+.microsoftEvent img{
+    position: absolute;
+    height: auto;
+    width: 30%;
+    right: 0;
+    top: 20px;
+    z-index: 1;
+}
+    </style>
+</head>
+
+<body>
+    <div class="container-fluid">
+        <div class="header">
+            <div class="header-top">
+                <div class="col-2 logo">
+                    <a href="#"><img
+                            src="https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31"
+                            alt=""></a>
+
+                </div>
+                <div class="col-7">
+                    <ul class="menu-bar-left">
+                        <li><a href="#">Surface</a></li>
+                        <li>
+                            <a href="#">Computers <i class="fa-solid fa-sort-down"></i></a>
+                            <div class="sub-menu">
+                                <ul>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">Computers for business <i class="fa-solid fa-sort-down"></i></a>
+                            <div class="sub-menu">
+                                <ul>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">Accessories <i class="fa-solid fa-sort-down"></i></a>
+                            <div class="sub-menu">
+                                <ul>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#">Shop now <i class="fa-solid fa-sort-down"></i></a>
+                            <div class="sub-menu">
+                                <ul>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li><a href="#">Support</a></li>
+                    </ul>
+                </div>
+                <div class="col-3">
+                    <ul class="menu-bar-right">
+                        <li class="">
+                            <a href="#">All Microsoft <i class="fa-solid fa-sort-down"></i></a>
+                            <div class="sub-menu">
+                                <ul>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                    <li><a href="">Surface Pro 8</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa-solid fa-magnifying-glass"></i></a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa-solid fa-cart-shopping"></i></a>
+                        </li>
+                        <li>
+                            <div><a href="#"><i class="fa-solid fa-user-plus"></i></a></div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="header-mid row">
+                <img src="https://c.s-microsoft.com/en-us/CMSImages/SurfaceBTS_3Devices_1920x1080.jpg?version=3205c61b-43e4-d580-89c7-9503b351fd3e"
+                    alt="">
+                <div class="title">
+                    <p>Laptops designed by Microsoft</p>
+                    <h4>Surface laptops and 2-in-1s with Windows 11 empower you to create at home, in the classroom, and
+                        on the go.</h4>
+                    <a href="#">Shop deals <i class="fa-solid fa-angle-right"></i></a>
+                    <a href="#">Explore all products <i class="fa-solid fa-angle-right"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <h1>For all the ways you create</h1>
+        <table>
+            <tr>
+                <td>
+                    <a href="#">
+                        <i class="fa-solid fa-laptop-file"></i> Compare devices <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                </td>
+                <td>
+                    <a href="#">
+                        <i class="fa-regular fa-circle-question"></i> Help me choose <i
+                            class="fa-solid fa-angle-right"></i>
+                    </a>
+                </td>
+                <td>
+                    <a href="#">
+                        <i class="fa-solid fa-tag"></i> Surface deals <i class="fa-solid fa-angle-right"></i>
+                    </a>
+                </td>
+                <td>
+                    <a href="#">
+                        <i class="fa-solid fa-graduation-cap"></i> Surface for <br> Education <i
+                            class="fa-solid fa-angle-right"></i>
+                    </a>
+                </td>
+                <td>
+                    <a href="#">
+                        <i class="fa-solid fa-building"></i> Surface for <br> Business <i
+                            class="fa-solid fa-angle-right"></i>
+                    </a>
+                </td>
+            </tr>
+        </table>
+
+        <div class="row microsoftEvent">
+            <div>
+                <h2>Microsoft Event​</h2>
+                <p>Watch live at 10am ET on October 12, 2022</p>
+                <a href="#"> <i class="fa-solid fa-calendar-days"></i> Save the date <i class="fa-solid fa-angle-right"></i></a>
+            </div>
+            <img src="https://c.s-microsoft.com/en-us/CMSImages/event.png?version=01d336c0-1c22-a55e-8a48-92d5372a1356"
+                alt="">
+        </div>
+    </div>
+</body>
+
+</html>
