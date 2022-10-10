@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a8a3b1e-36a4-44c1-a82a-a15f21f001e9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../calculate-app/src/main/java/com/example/calculateapp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../calculate-app/src/main/java/servlet/CalculatorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/test_jspTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT1Bai3Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT1Bai4Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT2Bai3Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT3Bai3Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT4Bai3Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../BT5Bai3Module3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Currency-Converter-App-JSP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Currency-Converter-App-JSP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Currency-Converter-App-JSP/src/main/java/com/example/currencyconverterappjsp/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Currency-Converter-App-JSP/src/main/java/com/example/currencyconverterappjsp/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/example/test/DBUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/test/DBUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Dept.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Dept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../test/src/main/java/com/example/test/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap/baitap.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../baitap/css.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css1/baitap2/thietkecss/bai1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css1/baitap2/thietkecss/bai2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css1/baitap2/thietkecss/bai3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css1/baitap2/thietkecss/bai4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../css1/baitap2/thietkecss/taogiaodienfb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/Login/src/main/java/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/Login/src/main/java/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/Product_Discount_Calculator/src/main/java/DiscountServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/Product_Discount_Calculator/src/main/java/DiscountServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/demo/src/main/java/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/demo/src/main/java/com/example/demo/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/demo/src/main/java/com/example/demo/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/src/main/java/ConverterServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/src/main/java/ConverterServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../tong-quan-ung-dung-wed/java-web-currency-converter/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../DiChuyenERDSangHeThongMoHinh.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Move_ERD_to_model_system.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../QUAN LI HOC VIEN.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai1phanbt5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../bai2phan5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../baitap3phan5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../baitap4Phan5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../baitap5cuaPhan5.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../l.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../mysqlsampledatabase.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../quanlisinhvien.sql" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FvzJb4rO3bwY3aqr18mgZxbxGl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Module-3-/CSS_module3/MVC",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.67" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.67" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="hot-swap-classes" />
+      <deployment>
+        <artifact name="Gradle : com.example : list_management_client-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="7e64dacd-5b19-4b91-b2c1-eb20a9230499" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56286" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : com.example : list_management_client-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8a3b1e-36a4-44c1-a82a-a15f21f001e9" name="Changes" comment="" />
+      <created>1665387278000</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665387278000</updated>
+      <workItem from="1665387279925" duration="495000" />
+      <workItem from="1665387797629" duration="11452000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
